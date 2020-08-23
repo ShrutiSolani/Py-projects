@@ -1,5 +1,7 @@
 message = input(">")
+
 words = message.split(" ")
+#dictionary to store emojis
 emojis = {
     ":)": "😃",
     ":(":"😣"
